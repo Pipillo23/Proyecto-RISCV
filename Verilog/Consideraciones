@@ -1,0 +1,10 @@
+Como mencionaba en el commit, los testbench estan hechos, sin embargo, hay que revisarlos porque el mux hace varios módulos dentro de él, creo que debe realizarse 1 por cada testbench
+
+El riscv_top todavía tiene el hexadecimal, no solo el clock y el reset, entonces hay que corregir eso
+
+Cómo se carga el programa con memoria única.
+Si acepta hexadecimal o necesita binario.
+Si el dump debe cubrir toda la memoria o solo la región de datos.
+Si habrá otros programas, y en particular tipo R.
+
+Hay que hacerle esas consultas al profe
